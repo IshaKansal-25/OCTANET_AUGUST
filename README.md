@@ -1,5 +1,4 @@
-# OCTANET_AUGUST
+# OCTANET_AUGUST_TASK-1
 Web Development Internship
 
-
-## Task 1 - Create a Landing page using HTML & CSS
+## Create a Landing page using HTML & CSS
